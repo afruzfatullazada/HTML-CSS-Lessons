@@ -1,0 +1,2 @@
+- [x] HTML Dersleri -1 / Giriş
+- [x] HTML Dersleri -2 / W3C Nedir?
