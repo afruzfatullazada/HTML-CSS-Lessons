@@ -1,2 +1,3 @@
 - [x] HTML Dersleri -1 / Giriş
 - [x] HTML Dersleri -2 / W3C Nedir?
+- [x] HTML Dersleri -3 / Görüntü Seviyeleri (Div, Span)
