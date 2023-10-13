@@ -1,3 +1,9 @@
 - [x] HTML Dersleri -1 / Giriş
 - [x] HTML Dersleri -2 / W3C Nedir?
 - [x] HTML Dersleri -3 / Görüntü Seviyeleri (Div, Span)
+- [x] Introduction
+- [x] What You Need 
+- [x] Languages and Tools of Web Development 
+- [x] How the Web Works
+- [x] Inspecting HTTP Requests and Responses 
+- [x] HTML Basics
