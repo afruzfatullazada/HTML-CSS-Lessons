@@ -8,3 +8,4 @@
 - [x] Inspecting HTTP Requests and Responses 
 - [x] HTML Basics
 - [x] CSS Basics
+- [x] Formatting Code
