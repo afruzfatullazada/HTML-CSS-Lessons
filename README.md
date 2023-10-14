@@ -7,3 +7,4 @@
 - [x] How the Web Works
 - [x] Inspecting HTTP Requests and Responses 
 - [x] HTML Basics
+- [x] CSS Basics
