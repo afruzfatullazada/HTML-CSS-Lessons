@@ -12,3 +12,4 @@
 - [x] Inspecting Pages Using DevTools
 - [x] Validating Web Pages
 - [x] The Head Section
+- [x] Text
