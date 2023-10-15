@@ -13,6 +13,6 @@
 - [x] Validating Web Pages
 - [x] The Head Section
 - [x] Text
-- [ ] Entities
-- [ ] Hyperlinks
-- [ ] Images
+- [x] Entities
+- [x] Hyperlinks
+- [x] Images
