@@ -15,3 +15,4 @@
 - [x] Text
 - [ ] Entities
 - [ ] Hyperlinks
+- [ ] Images
