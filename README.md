@@ -9,3 +9,4 @@
 - [x] HTML Basics
 - [x] CSS Basics
 - [x] Formatting Code
+- [x] Inspecting Pages Using DevTools
