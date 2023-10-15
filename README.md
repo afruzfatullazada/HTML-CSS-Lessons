@@ -14,3 +14,4 @@
 - [x] The Head Section
 - [x] Text
 - [ ] Entities
+- [ ] Hyperlinks
