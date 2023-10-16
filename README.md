@@ -16,3 +16,4 @@
 - [x] Entities
 - [x] Hyperlinks
 - [x] Images
+- [x] Video and Audio
