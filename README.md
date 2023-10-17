@@ -17,3 +17,4 @@
 - [x] Hyperlinks
 - [x] Images
 - [x] Video and Audio
+- [x] Lists
