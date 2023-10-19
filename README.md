@@ -23,4 +23,18 @@
 - [x] 23. Semantic Elements
 - [x] 24. Structuring a Web Page
 - [x] 25. Summary
-- [ ] 
+- [x] 26. CSS Basics - Introduction (0:51)
+- [ ] 27. Providing CSS (6:06
+- [ ] 28. Normalizing CSS (2:58)
+- [ ] 29. Basic Selectors (4:56)
+- [ ] 30. Relational Selectors (5:20)
+- [ ] 31. Pseudo-class Selectors (9:06)
+- [ ] 32. Pseudo-element Selectors (4:42)
+- [ ] 33. Selectors Specificty (8:01)
+- [ ] 34. Inheritance (2:43)
+- [ ] 35. Colors (6:47)
+- [ ] 36. Gradients (6:06)
+- [ ] 37. Borders (5:46)
+- [ ] 38. Shadows (4:25)
+- [ ] 39. Summary
+- [ ] 40. Exercises
