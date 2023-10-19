@@ -25,7 +25,7 @@
 - [x] 25. Summary
 - [x] 26. CSS Basics - Introduction (0:51)
 - [x] 27. Providing CSS (6:06
-- [ ] 28. Normalizing CSS (2:58)
+- [x] 28. Normalizing CSS (2:58)
 - [ ] 29. Basic Selectors (4:56)
 - [ ] 30. Relational Selectors (5:20)
 - [ ] 31. Pseudo-class Selectors (9:06)
