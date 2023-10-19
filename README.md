@@ -1,22 +1,26 @@
-- [x] HTML Dersleri -1 / Giriş
-- [x] HTML Dersleri -2 / W3C Nedir?
-- [x] HTML Dersleri -3 / Görüntü Seviyeleri (Div, Span)
-- [x] Introduction
-- [x] What You Need 
-- [x] Languages and Tools of Web Development 
-- [x] How the Web Works
-- [x] Inspecting HTTP Requests and Responses 
-- [x] HTML Basics
-- [x] CSS Basics
-- [x] Formatting Code
-- [x] Inspecting Pages Using DevTools
-- [x] Validating Web Pages
-- [x] The Head Section
-- [x] Text
-- [x] Entities
-- [x] Hyperlinks
-- [x] Images
-- [x] Video and Audio
-- [x] Lists
-- [x] Tables
-- [x] Containers
+- [x] 1. HTML Dersleri -1 / Giriş
+- [x] 2. HTML Dersleri -2 / W3C Nedir?
+- [x] 3. HTML Dersleri -3 / Görüntü Seviyeleri (Div, Span)
+- [x] 4. Introduction
+- [x] 5. What You Need 
+- [x] 6. Languages and Tools of Web Development 
+- [x] 7. How the Web Works
+- [x] 8. Inspecting HTTP Requests and Responses 
+- [x] 9. HTML Basics
+- [x] 10. CSS Basics
+- [x] 11. Formatting Code
+- [x] 12. Inspecting Pages Using DevTools
+- [x] 13. Validating Web Pages
+- [x] 14. The Head Section
+- [x] 15. Text
+- [x] 16. Entities
+- [x] 17. Hyperlinks
+- [x] 18. Images
+- [x] 19. Video and Audio
+- [x] 20. Lists
+- [x] 21. Tables
+- [x] 22. Containers
+- [x] 23. Semantic Elements
+- [x] 24. Structuring a Web Page
+- [x] 25. Summary
+- [ ] 
