@@ -28,7 +28,7 @@
 - [x] 28. Normalizing CSS (2:58)
 - [x] 29. Basic Selectors (4:56)
 - [x] 30. Relational Selectors (5:20)
-- [ ] 31. Pseudo-class Selectors (9:06)
+- [x] 31. Pseudo-class Selectors (9:06)
 - [ ] 32. Pseudo-element Selectors (4:42)
 - [ ] 33. Selectors Specificty (8:01)
 - [ ] 34. Inheritance (2:43)
