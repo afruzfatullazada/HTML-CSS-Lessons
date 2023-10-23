@@ -32,7 +32,7 @@
 - [x] 32. Pseudo-element Selectors (4:42)
 - [x] 33. Selectors Specificty (8:01)
 - [x] 34. Inheritance (2:43)
-- [ ] 35. Colors (6:47)
+- [x] 35. Colors (6:47)
 - [ ] 36. Gradients (6:06)
 - [ ] 37. Borders (5:46)
 - [ ] 38. Shadows (4:25)
