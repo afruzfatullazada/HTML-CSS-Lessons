@@ -34,7 +34,7 @@
 - [x] 34. Inheritance (2:43)
 - [x] 35. Colors (6:47)
 - [x] 36. Gradients (6:06)
-- [ ] 37. Borders (5:46)
-- [ ] 38. Shadows (4:25)
-- [ ] 39. Summary
+- [x] 37. Borders (5:46)
+- [x] 38. Shadows (4:25)
+- [x] 39. Summary
 - [ ] 40. Exercises
