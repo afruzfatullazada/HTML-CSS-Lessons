@@ -38,3 +38,81 @@
 - [x] 38. Shadows (4:25)
 - [x] 39. Summary
 - [ ] 40. Exercises
+- [ ] Complete and Continue
+- [ ] Introduction (1:03)
+- [ ] 2- Prerequisites (0:48)
+- [ ] 4- Getting Help
+- [ ] 6- Learning Paths
+- [ ] 1- Introduction (0:45)
+- [ ] The Box Model (6:02)
+- [ ] Sizing Elements (8:20)
+- [ ] Overflowing (3:03)
+- [ ] Measurement Units (10:59)
+- [ ] Positioning (9:45)
+- [ ] Floating Elements (9:33)
+- [ ] FlexBox (14:59)
+- [ ] Grid (19:03)
+- [ ] Hiding Elements (1:24)
+- [ ] Media Queries (10:06)
+- [ ] Summary
+- [ ] Exercises
+- [ ] Introduction (0:44)
+- [ ] Styling Fonts (7:38)
+- [ ] Embedding Web Fonts (7:39)
+- [ ] Flash of Unstyled Text (6:45)
+- [ ] Font Services (8:22)
+- [ ] System Font Stack (2:47)
+- [ ] Sizing Fonts (7:23)
+- [ ] Vertical Spacing (4:44)
+- [ ] Horizontal Spacing (3:16)
+- [ ] Formatting Text (6:15)
+- [ ] Summary
+- [ ] Exercises
+- [ ] A Quick Note
+- [ ] Introduction (1:13)
+- [ ] Image Types and Formats (3:50)
+- [ ] Content Images (3:40)
+- [ ] Background Images (7:02)
+- [ ] CSS Sprites (7:24)
+- [ ] Data URLs (3:40)
+- [ ] Clipping (1:51)
+- [ ] Filters (2:16)
+- [ ] Supporting High-density Screens (8:14)
+- [ ] Resolution Switching (7:01)
+- [ ] Using Modern Image Formats (4:29)
+- [ ] Art Direction (2:33)
+- [ ] Scalable Vector Graphics (2:16)
+- [ ] Font Icons (5:19)
+- [ ] Summary
+- [ ] Exercises
+- [ ] Introduction (0:40)
+- [ ] Creating a Basic Form (3:50)
+- [ ] Styling Forms (8:44)
+- [ ] CSS Frameworks (8:46)
+- [ ] Text Fields (5:47)
+- [ ] Data Lists (4:45)
+- [ ] Drop-down Lists (3:07)
+- [ ] Check Boxes (2:57)
+- [ ] Radio Buttons (1:58)
+- [ ] Sliders (0:55)
+- [ ] File Inputs (1:20)
+- [ ] Grouping Related Fields (1:09)
+- [ ] Hidden Fields (1:37)
+- [ ] Data Validation (3:33)
+- [ ] Submitting the Form (5:55)
+- [ ] Summary
+- [ ] Exercises
+- [ ] Introduction (0:24)
+- [ ] Transformations (4:10)
+- [ ] 3D Transformations (5:39)
+- [ ] Transitions (3:23)
+- [ ] Animations (5:05)
+- [ ] Reusable Animations (2:19)
+- [ ] Summary
+- [ ] Exercises
+- [ ] Writing Clean, Maintainable CSS Introduction (0:50)
+- [ ] CSS Best Practices (9:20)
+- [ ] Variables (2:17)
+- [ ] Object-oriented CSS (5:06)
+- [ ] BEM (4:12)
+- [ ] Summary
