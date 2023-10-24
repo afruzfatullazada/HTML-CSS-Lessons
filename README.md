@@ -38,12 +38,7 @@
 - [x] 38. Shadows (4:25)
 - [x] 39. Summary
 - [ ] 40. Exercises
-- [ ] Complete and Continue
-- [ ] Introduction (1:03)
-- [ ] 2- Prerequisites (0:48)
-- [ ] 4- Getting Help
-- [ ] 6- Learning Paths
-- [ ] 1- Introduction (0:45)
+- [x] 1- Introduction / Layout (0:45)
 - [ ] The Box Model (6:02)
 - [ ] Sizing Elements (8:20)
 - [ ] Overflowing (3:03)
