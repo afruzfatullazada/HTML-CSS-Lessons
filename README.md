@@ -39,8 +39,8 @@
 - [x] 39. Summary
 - [ ] 40. Exercises
 - [x] 1- Introduction / Layout (0:45)
-- [ ] The Box Model (6:02)
-- [ ] Sizing Elements (8:20)
+- [x] The Box Model (6:02)
+- [x] Sizing Elements (8:20)
 - [ ] Overflowing (3:03)
 - [ ] Measurement Units (10:59)
 - [ ] Positioning (9:45)
