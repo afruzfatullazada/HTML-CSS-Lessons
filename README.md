@@ -4,6 +4,10 @@
 - [x] HTML Structure
 - [x] Headings
 - [x] Divs
+- [ ] Attributes
+- [ ] Displaying Text
+- [ ] Styling Text
+
 
 
 
