@@ -22,6 +22,16 @@
 - [x] Linking to Relative Page
 - [x] Linking At Will
 - [x] Whitespace
+- [x] Intro to CSS
+- [x] CSS Anatomy
+- [x] Internal Stylesheet
+- [x] External Stylesheet
+- [x] Linking the CSS File
+- [x] Universal
+- [x] Class
+
+
+
 
 
 
