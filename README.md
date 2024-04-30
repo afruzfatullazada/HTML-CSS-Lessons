@@ -29,6 +29,21 @@
 - [x] Linking the CSS File
 - [x] Universal
 - [x] Class
+- [x] Table Rows
+- [x] Table Data
+- [x] Table Headings
+- [x] Table Borders
+- [x] Spanning Columns
+- [x] Spanning Rows
+- [x] Table Body
+- [x] Table Head
+- [x] Table Footer
+- [x] Styling with CSS
+
+
+
+
+
 
 
 
