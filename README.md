@@ -39,11 +39,7 @@
 - [x] Table Head
 - [x] Table Footer
 - [x] Styling with CSS
-
-
-
-
-
+- [x] A Note on Semantic HTML
 
 
 
