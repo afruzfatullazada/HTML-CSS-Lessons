@@ -40,7 +40,7 @@
 - [x] Table Footer
 - [x] Styling with CSS
 - [x] A Note on Semantic HTML
-
+- [x] Installing Additional VS Code Extensions
 
 
 
