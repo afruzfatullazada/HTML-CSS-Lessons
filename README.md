@@ -41,6 +41,10 @@
 - [x] A Note on Semantic HTML
 - [x] Installing Additional VS Code Extensions
 - [x] Inline, Internal and External CSS
+- [x] tyling Text
+- [x] Combining Selectors
+- [x] Class and ID Selectors
+- [x] Working With Colors
 
 
 
