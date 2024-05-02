@@ -38,9 +38,9 @@
 - [x] Table Body
 - [x] Table Head
 - [x] Table Footer
-- [x] Styling with CSS
 - [x] A Note on Semantic HTML
 - [x] Installing Additional VS Code Extensions
+- [x] Inline, Internal and External CSS
 
 
 
