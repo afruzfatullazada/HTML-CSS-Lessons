@@ -49,6 +49,7 @@
 - [x] Styling Hyperlinks
 - [x] Using Chrome DevTools
 - [x] CSS Theory #1: Conflicts Between Selectors
+- [x] CSS Theory #2: Inheritance and the Universal Selector
 
 
 
