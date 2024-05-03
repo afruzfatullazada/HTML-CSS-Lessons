@@ -45,7 +45,8 @@
 - [x] Combining Selectors
 - [x] Class and ID Selectors
 - [x] Working With Colors
-- [x] Pseudo-classes 
+- [x] Pseudo-classes
+- [x] Styling Hyperlinks
 
 
 
