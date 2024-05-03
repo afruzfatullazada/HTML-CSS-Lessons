@@ -47,6 +47,7 @@
 - [x] Working With Colors
 - [x] Pseudo-classes
 - [x] Styling Hyperlinks
+- [x] Using Chrome DevTools
 
 
 
