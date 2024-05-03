@@ -48,6 +48,7 @@
 - [x] Pseudo-classes
 - [x] Styling Hyperlinks
 - [x] Using Chrome DevTools
+- [x] CSS Theory #1: Conflicts Between Selectors
 
 
 
