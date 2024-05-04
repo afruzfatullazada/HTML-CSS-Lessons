@@ -54,6 +54,8 @@
 - [x] Using Margins and Paddings
 - [x] dding Dimensions
 - [x] Centering our Page
+- [x] CSS Theory #4: Types of Boxes
+- [x] CSS Theory #5: Absolute Positioning
 
 
 
