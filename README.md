@@ -64,6 +64,7 @@
 - [x] Clearing Floats
 - [x] Building a Simple Float Layout
 - [x] box-sizing: border-box
+- [x] Introduction to Flexbox
 
 
 
