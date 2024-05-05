@@ -57,6 +57,8 @@
 - [x] CSS Theory #4: Types of Boxes
 - [x] CSS Theory #5: Absolute Positioning
 - [x] Pseudo-elements
+- [x] Developer Skill #1: Googling and Reading Documentation
+- [x] Developer Skill #2: Debugging and Asking Questions
 
 
 
