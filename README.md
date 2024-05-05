@@ -56,6 +56,7 @@
 - [x] Centering our Page
 - [x] CSS Theory #4: Types of Boxes
 - [x] CSS Theory #5: Absolute Positioning
+- [x] Pseudo-elements
 
 
 
