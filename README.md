@@ -59,6 +59,8 @@
 - [x] Pseudo-elements
 - [x] Developer Skill #1: Googling and Reading Documentation
 - [x] Developer Skill #2: Debugging and Asking Questions
+- [x] he 3 Ways of Building Layouts
+- [x]  Using Floats
 
 
 
