@@ -67,6 +67,8 @@
 - [x] Introduction to Flexbox
 - [x] course - table, form, figma
 - [x] A Flexbox Overview
+- [x] Spacing and Aligning Flex Items
+- [x] The flex Property
 
 
 
