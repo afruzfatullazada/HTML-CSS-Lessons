@@ -69,6 +69,8 @@
 - [x] A Flexbox Overview
 - [x] Spacing and Aligning Flex Items
 - [x] The flex Property
+- [x] Adding Flexbox to Our Project
+- [x] Building a Simple Flexbox Layout
 
 
 
