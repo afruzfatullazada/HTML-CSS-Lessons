@@ -71,6 +71,14 @@
 - [x] The flex Property
 - [x] Adding Flexbox to Our Project
 - [x] Building a Simple Flexbox Layout
+- [ ] Adding Flexbox to Our Project
+- [x] Building a Simple Flexbox Layout
+- [x] Introduction to CSS Grid
+- [x] Sizing Grid Columns and Rows
+- [x] Placing and Spanning Grid Items
+- [x] Aligning Grid Items and Tracks
+- [x] Building a Simple CSS Grid Layout
+- [x] Overview of Web Design and Website Personalities
 
 
 
