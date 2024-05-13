@@ -79,6 +79,11 @@
 - [x] Aligning Grid Items and Tracks
 - [x] Building a Simple CSS Grid Layout
 - [x] Overview of Web Design and Website Personalities
+- [x] 68. Web Design Rules #1: Typography
+- [x] Implementing Typography
+- [x] Web Design Rules #2: Colors
+- [x] Implementing Colors
+- [x] Web Design Rules #3: Images and Illustrations
 
 
 
